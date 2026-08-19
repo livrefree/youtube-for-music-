@@ -10,7 +10,7 @@
     Dj_arana: "https://www.youtube.com/embed/videoseries?list=PLUmuqqFEM_HY",
     Pagode: "https://www.youtube.com/embed/videoseries?list=PL_Q15fKxrBb5pckIW2RHwZbgf-FwRiCWr",
     Eletronica: "https://www.youtube.com/embed/videoseries?list=PLhgO2i9SR2sPJ-ihUiutO4XXLU9Jr6-nZ",
-    Poética: "https://www.youtube.com/embed/videoseries?list=PLdEPZGR5pEYE",
+    Poética: "https://www.youtube.com/embed/videoseries?list=PLUVtYYVZeW4E",
     
   };
 
