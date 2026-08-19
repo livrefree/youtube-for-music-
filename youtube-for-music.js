@@ -5,8 +5,13 @@
   let hidden = false;
 
   const playlists = {
-    outras: "https://www.youtube.com/embed/videoseries?list=PLXl0fj1Yod7LUey9UB2HbB30gKldfB0_V",
-    minhas: "https://www.youtube.com/embed/videoseries?list=PLXwxykahbbHk",
+    Outros: "https://www.youtube.com/embed/videoseries?list=PLXl0fj1Yod7LUey9UB2HbB30gKldfB0_V",
+    Funk: "https://www.youtube.com/embed/videoseries?list=PLXwxykahbbHk",
+    Dj_arana: "https://www.youtube.com/embed/videoseries?list=PLUmuqqFEM_HY",
+    Pagode: "https://www.youtube.com/embed/videoseries?list=PL_Q15fKxrBb5pckIW2RHwZbgf-FwRiCWr",
+    Eletronica: "https://www.youtube.com/embed/videoseries?list=PLhgO2i9SR2sPJ-ihUiutO4XXLU9Jr6-nZ",
+    Poética: "https://www.youtube.com/embed/videoseries?list=PLdEPZGR5pEYE",
+    
   };
 
   document.addEventListener("keydown", function (event) {
