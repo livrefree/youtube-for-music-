@@ -35,6 +35,6 @@ funk
   
 poética
 
-       https://www.youtube.com/playlist?list=PLdEPZGR5pEYE&jct=yZp5whTysbCkUVwrUwOF5w
+       https://www.youtube.com/playlist?list=PLUVtYYVZeW4E&jct=a4dCvDGEjfHwYfYrFjkhHA
 
     
